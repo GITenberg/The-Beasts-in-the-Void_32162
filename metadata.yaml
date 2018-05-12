@@ -1,0 +1,42 @@
+_repo: The-Beasts-in-the-Void_32162
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Willis E.
+    - Terry, Bill
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 32162-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fairman, Paul W.
+    birthdate: 1916
+    deathdate: 1977
+    gutenberg_agent_id: '9567'
+    url: http://www.gutenberg.org/2009/agents/9567
+description: Imagine being trapped on a spaceship hurtling through the outer reaches
+  of the galaxy at warp speed &ndash; alongside a menagerie of giant, bloodthirsty
+  creatures. That's the improbable but pulse-pounding plot of Paul W. Fairman's short
+  tale, "The Beasts in the Void." If you're hankering for a classic sci-fi tale packed
+  with plenty of adventure, it doesn't get much better than this.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: The Beasts in the Void
+url: http://www.gutenberg.org/ebooks/32162
